@@ -1,4 +1,5 @@
-**Descripcion**
+**Descripcion**:
+
 Este aplicativo Java permite realizar conversiones de monedas entre distintas monedas usando tasas de cambio actualizadas en tiempo real proporcionadas por **ExchangeRate-API**. 
 El aplicativo consulta la API, realiza el cálculo correspondiente y muestra el resultado al usuario.
 
